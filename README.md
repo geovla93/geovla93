@@ -32,20 +32,28 @@ My goal is to continue advancing as a software engineer and achieve a **senior**
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; gap: 24px; justify-content: center; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=geovla93&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="George's GitHub Stats"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=geovla93&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=geovla93&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="George's GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=geovla93&theme=tokyonight" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </thead>
+</table>
 
-<div style="margin-top: 24px; display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovla93&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovla93&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages"/>
+      </td>
+    </tr>
+  </thead>
+</table>
 
 ## 🔗 Links
 
