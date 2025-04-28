@@ -36,7 +36,7 @@ My goal is to continue advancing as a software engineer and achieve a **senior**
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=geovla93&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="George's GitHub Stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovla93&langs_count=8&card_width=320&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovla93&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </a>
 
 ---
