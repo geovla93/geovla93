@@ -32,20 +32,18 @@ My goal is to continue advancing as a software engineer and achieve a **senior**
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; gap: 24px; justify-content: center; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=geovla93&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="George's GitHub Stats"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=geovla93&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=geovla93&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="George's GitHub Stats"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovla93&langs_count=8&card_width=320&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</a>
 
-<div style="margin-top: 24px; display: flex; gap: 24px; justify-content: center; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovla93&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
-</div>
+---
+
+<a href="https://git.io/streak-stats">
+  <img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com?user=geovla93&theme=tokyonight" alt="GitHub Streak" />
+</a>
 
 ## 🔗 Links
 
