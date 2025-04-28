@@ -1,31 +1,53 @@
-# Hello there 👋
+# Hi, I'm George Vlassis 👋
 
-# About Me
-- 😜 I'm George Vlassis, a Software Engineer
-- 👨‍💻 Currently, I'm working at [Cyberscope](https://www.cyberscope.io/) as a Full Stack Web Developer and Smart Contract Auditor.
+## 🚀 About Me
 
-# Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+I'm a **Software Engineer** and **Smart Contract Auditor** based in Ioannina, Greece.  
+Currently working at [Cyberscope](https://www.cyberscope.io/), a company providing cybersecurity services for blockchain technologies.
 
-# GitHub Stats
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <thead>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=geovla93&show_icons=true&locale=en&theme=tokyonight&count_private=true"
-          alt="GitHub Stats"
-        />
-      </td>
-      <td>
-        <img
-          src="https://streak-stats.demolab.com/?user=geovla93&theme=tokyonight"
-          alt="GitHub Stats"
-        />
-      </td>
-    </tr>
-  </thead>
-</table>
+At Cyberscope, I focus on:
 
-# Contact Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-vlassis-045844105/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GeorgeVlassis)
+- Maintaining and extending existing codebases.
+- Building new features for a variety of projects.
+- Auditing smart contracts and identifying vulnerabilities.
+
+In my free time, I enjoy building new projects using **Next.js**, **Node.js**, **React**, and **TypeScript**, and constantly exploring new technologies and libraries.  
+My goal is to continue advancing as a software engineer and achieve a **senior** position in the near future.
+
+## 🛠 Tech Stack
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div style="display: flex; gap: 24px; justify-content: center; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=geovla93&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="George's GitHub Stats"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=geovla93&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div style="margin-top: 24px; display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovla93&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </a>
+</div>
+
+## 🔗 Links
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-vlassis-045844105)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/GeorgeVlassis)
